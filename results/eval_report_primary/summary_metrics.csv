@@ -1,0 +1,2 @@
+model_path,split_file,num_samples,num_primary_labels,accuracy,prec_micro,rec_micro,f1_micro,prec_macro,rec_macro,f1_macro,prec_weighted,rec_weighted,f1_weighted,top_3,top_5,model_params_total,model_params_trainable
+model/best_model_primary.pth,data_splits/test.json,54581,46,0.9642549605173961,0.9642549605173961,0.9642549605173961,0.9642549605173961,0.9642021095605976,0.9646506595881251,0.964167349587752,0.9647147842235542,0.9642549605173961,0.9642187360921053,0.9948700097103388,0.9978380755207856,21618862,21618862
