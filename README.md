@@ -109,6 +109,20 @@ Main expected checkpoint paths:
 
 ## 6. Build and Run
 
+Pull the DINOv3 source repository if the `dinov3/` folder is not already present:
+
+```powershell
+git clone https://github.com/facebookresearch/dinov3.git dinov3
+```
+
+If the `dinov3/` folder already exists and you need to update it, run:
+
+```powershell
+git -C dinov3 pull
+```
+
+Keep the directory name as `dinov3`, because the project loads the backbone from this local path.
+
 Create and activate a virtual environment:
 
 ```powershell
