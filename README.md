@@ -95,6 +95,10 @@ The code requires the DINOv3 ViT-S/16 pretrained checkpoint. Place it locally at
 model/dinov3_vits16_pretrain_lvd1689m-08c60483.pth
 ```
 
+Download link:
+
+https://huggingface.co/facebook/dinov3-vits16-pretrain-lvd1689m
+
 The trained dissertation checkpoints are expected in `model/` or `ablation_models/` when running evaluation scripts. Recreate them by running the training scripts, or place previously trained checkpoints at the paths shown in each evaluation script.
 
 Main expected checkpoint paths:
