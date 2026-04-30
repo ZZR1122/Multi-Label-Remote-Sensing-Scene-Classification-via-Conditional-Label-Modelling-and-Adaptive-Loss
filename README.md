@@ -116,7 +116,7 @@ Main expected checkpoint paths:
 Pull the DINOv3 source repository if the `dinov3/` folder is not already present:
 
 ```powershell
-git clone https://github.com/facebookresearch/dinov3.git dinov3
+git clone https://github.com/facebookresearch/dinov3
 ```
 
 If the `dinov3/` folder already exists and you need to update it, run:
