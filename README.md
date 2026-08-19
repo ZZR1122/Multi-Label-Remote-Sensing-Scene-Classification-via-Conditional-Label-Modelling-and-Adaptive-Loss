@@ -1,8 +1,4 @@
-# DINOv3 Remote Sensing Scene Classification - CSCU9Z7 Dissertation
-
-Author: Zhou Zirui  
-Stirling ID: 3147943  
-Supervisor: Dr. Zaid Al-Huda
+# DINOv3 Remote Sensing Scene Classification 
 
 ## 1. Project Description
 
